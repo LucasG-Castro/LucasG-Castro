@@ -11,7 +11,6 @@
 - 🌐 HTML | CSS | JavaScript  
 - 🛠️ Git & GitHub  
 - 📱 Responsive Web Design  
-- 🎨 UI/UX Basics
 
 ---
 
@@ -20,7 +19,6 @@
 - robotics
 - html
 - start in javascript
-- 
 
 ---
 
