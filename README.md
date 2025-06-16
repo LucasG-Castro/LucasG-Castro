@@ -31,7 +31,7 @@ Check out some of my work here on GitHub!
 
 ## 📫 Contact Me
 
-- 📧 lucas.8360869@aluno.mg.senac.br  
+- 📧 lucas.8360869@aluno.mg.gov.br  
 
 ---
 
