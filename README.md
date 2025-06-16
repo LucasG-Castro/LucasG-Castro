@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hello! I'm Lucas Castro
 
-<!--
-**LucasG-Castro/LucasG-Castro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **IT Student** | 🖥️ **Aspiring Software Developer**  
+📚 Currently enrolled in a Full-Time Technical High School  
+🌱 Constantly learning and growing in software development  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills & Technologies
+
+- 🌐 HTML | CSS | JavaScript  
+- 🛠️ Git & GitHub  
+- 📱 Responsive Web Design  
+- 🎨 UI/UX Basics
+
+---
+
+## 📌 Currently Learning
+
+- robotics
+- html
+- start in javascript
+- 
+
+---
+
+## 📁 Projects
+
+Check out some of my work here on GitHub!  
+👉 [github.com/LucasG-Castro](https://github.com/LucasG-Castro)
+
+---
+
+## 📫 Contact Me
+
+- 📧 lucas.8360869@aluno.mg.senac.br  
+
+---
+
+> “The best way to predict the future is to invent it.” – Alan Kay
